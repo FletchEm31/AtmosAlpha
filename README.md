@@ -91,7 +91,7 @@ This repository is a public technical portfolio and educational reference for sa
 Maintained by **H. Harper**.
 
 - GitHub: [@FletchEm31](https://github.com/FletchEm31)
-- LinkedIn: Add your professional LinkedIn URL here
+- LinkedIn: [Hayden Harper](https://www.linkedin.com/in/hayden-harper/)
 
 For professional inquiries involving quantitative research, market data, data engineering, systems reliability, cloud infrastructure, Linux, or performance-oriented software, please connect through GitHub or LinkedIn.
 
