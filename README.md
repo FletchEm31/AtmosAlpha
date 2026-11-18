@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/atmosalpha-logo.png" alt="AtmosAlpha logo" width="260">
+</p>
+
 # AtmosAlpha
 ### Atmospheric Alpha: event-market research and trading systems
 
